@@ -1,0 +1,16 @@
+  933  make qemu
+  934  conda deactivate
+  935  cd Desktop
+  936  cd cs149
+  937  cs WS1
+  938  pwd
+  939  ls
+  940  cd WS1
+  941  pwd
+  942  ls
+  943  cd WS_bonus
+  944  ls
+  945  cd xv6-labs-2023
+  946  make clean
+  947  make qemu
+  948  make GRADEFLAGS=sleep grade
