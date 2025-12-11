@@ -1,0 +1,16 @@
+  874  git branch
+  875  git remote add origin git@github.com:NoahChhan/cs149-Bonus-Worksheet.git
+  876  git branch -M main
+  877  git push -u origin main
+  878  git push origin my-new-branch
+  879  git push my-new-branch
+  880  mkdir WS1
+  881  cd WS1
+  882  git init
+  883  git remote add origin git@github.com:NoahChhan/cs149-Bonus-Worksheet.git
+  884  mkdir WS_bonus
+  885  cd WS_bonus
+  886  git add .
+  887  wget -O out.pdf https://tinyurl.com/yy94jltt
+  888  curl -L "https://tinyurl.com/yy94jltt" -o out.pdf
+  889  ls -latr
